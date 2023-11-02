@@ -1,4 +1,4 @@
-<h1>bandit0</h1><br/>
+<h1>bandit0 -> bandit1</h1><br/>
 The task is you need to find the password from bandit0 labs for the next one (bandit1).<br/>
 ls command is a command to list all directories and files in that directory you were in.<br/>
 After you use ls, you can see that there’s a filename “readme”.<br/>
