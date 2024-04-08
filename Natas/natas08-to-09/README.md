@@ -69,14 +69,14 @@ natas8
 natas9
 
 <code>
-; file /etc/natas_webpass/natas9
+; file /etc/natas_webpass/natas10
 </code>
 
-/etc/natas_webpass/natas9: ASCII text<br>
+/etc/natas_webpass/natas10: ASCII text<br>
 dictionary.txt:            Unicode text, UTF-8 text
 
 <code>
-; cat /etc/natas_webpass/natas9
+; cat /etc/natas_webpass/natas10
 </code><br>
-Sda6t0vkOPkM8YeOZkAGVhFoaplvlJFd
+D44EcsFkLxPIkAAKLosx8z3hxX1Z4MCE
 
