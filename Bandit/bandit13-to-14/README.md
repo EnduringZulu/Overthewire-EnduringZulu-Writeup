@@ -7,7 +7,7 @@ The password for the next level is stored in /etc/bandit_pass/bandit14 and can o
 
 To use this password for bandit14
 
-![alt text](image-2.png)
+
 
 TO DO: <code>bandit13@bandit:~$</code> ssh bandit14@bandit.labs.overthewire.org -p 2220 -i sshkey.private
 
